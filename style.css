@@ -3,5 +3,6 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif; 
     font-size: 300%;
     padding: 25px;
+    border: 10px white; 
 }
 
