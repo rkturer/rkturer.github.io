@@ -8,9 +8,18 @@ h1{
     border: 10px solid white;
     text-align: center; 
 }
+h2{
+    background-color: powderblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 175%;
+    padding: 25px;
+    border: 10px solid white;
+    text-align: center; 
+}
 
 body{
-    <iframe src = "demo_iframe.htm height= "200" width "50%" style= "border": 10px solid white></iframe>
+    /*<iframe src = "demo_iframe.htm height= "200" width "50%" style= "border": 10px solid white></iframe>*/
     background-color: powderblue;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif; 
