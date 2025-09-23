@@ -1,4 +1,39 @@
+ul{
+    background-color: powderblue;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    text-align: center;
+    border: 10px solid white;
+    height: 100%
+    position: fixed;
+}
 
+li a {
+    display: block;
+    color: white;
+    padding: 8 px 16px;
+    text-decoration: none;
+    border_bottom: 2px solid white;
+}
+
+li b {
+    display: block;
+    color: white;
+    padding: 8 px 16px;
+    text-decoration: none;
+    border_bottom: none;
+}
+li a:hover{
+    background-color: white;
+    color: powderblue;
+    
+.active{
+    background-color: white;
+    color: powderblue;
+}
+    
 h1{
     background-color: powderblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
