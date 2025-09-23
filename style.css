@@ -10,7 +10,7 @@ h1{
 }
 
 body{
-    <iframe src = "demo_iframe.htm height= "200" width "50%"></iframe><iframe>
+    <iframe src = "demo_iframe.htm height= "200" width "50%" style= "border": 10px solid white></iframe>
     background-color: powderblue;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif; 
