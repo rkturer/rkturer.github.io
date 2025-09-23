@@ -1,6 +1,7 @@
 body{
     background-color: powderblue;
-    font-family: Georgia; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
     font-size: 300%;
+    padding: 25px;
 }
 
