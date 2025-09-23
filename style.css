@@ -1,7 +1,19 @@
+
+h1{
+    background-color: powderblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 300%;
+    padding: 25px;
+    border: 10px solid white;
+    
+}
+
 body{
     background-color: powderblue;
+    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif; 
-    font-size: 300%;
+    font-size: 150%;
     padding: 25px;
     border: 10px solid white; 
 }
