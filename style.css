@@ -6,7 +6,6 @@ ul{
     width: 200px;
     text-align: center;
     border: 10px solid white;
-    height: 100%;
     position: fixed;
 }
 
@@ -55,6 +54,7 @@ h2{
 }
 
 body{
+    margin_left: 220px; 
     background-color: powderblue;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif; 
