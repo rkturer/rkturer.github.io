@@ -50,6 +50,7 @@ li a:hover{
 .cover-image{
     max-width: 100%;
     height: auto;
+    display: block;
 }
 h2{
     background-color: powderblue;
