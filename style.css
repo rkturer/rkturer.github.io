@@ -54,6 +54,7 @@
     max-width: 800px;
     height: auto;
     border: 10px solid white;
+    display: block;
 }
 
 h2 {
