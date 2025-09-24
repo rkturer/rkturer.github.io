@@ -1,5 +1,5 @@
 .NavBar ul {
-    background-color: powderblue;
+    background-color: LightGray;
     list-style-type: none;
     border: 10px solid white;
     display: flex; 
@@ -17,12 +17,12 @@
 
 .NavBar li a:hover {
     background-color: white;
-    color: powderblue;
+    color: LightGray;
 }
 
 .active {
     background-color: white;
-    color: powderblue;
+    color: LightGray;
     font-weight: bold;
 }
 .cover-image {
@@ -57,7 +57,7 @@ h2 {
 }
 
 body { 
-    background-color: powderblue;
+    background-color: LightGray;
     font-size: 150%;
     padding: 25px;
 }
