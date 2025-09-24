@@ -1,4 +1,4 @@
-.NavBar ul{
+.NavBar ul {
     background-color: powderblue;
     list-style-type: none;
     margin: 0;
@@ -7,6 +7,9 @@
     text-align: center;
     border: 10px solid white;
     position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%; /* makes nav stretch down the page */
 }
 
 .NavBar li a {
@@ -17,46 +20,43 @@
     border-bottom: 2px solid white;
 }
 
-.NavBar li b {
-    display: block;
-    color: white;
-    padding: 8px 16px;
-    text-decoration: none;
-    border-bottom: none;
-}
-li a:hover{
+.NavBar li a:hover {
     background-color: white;
     color: powderblue;
-}
-    
-.active{
-    background-color: white;
-    color: powderblue;
-}
-.cover{
-    text-align: center;
-    margin-left: 220px;
-    padding: 20px;
 }
 
-.cover-text{
+.active {
+    background-color: white;
+    color: powderblue;
+    font-weight: bold;
+}
+
+.cover {
+    text-align: center;
+    padding: 20px;
+    position: relative; /* ensures .cover-text aligns to this container */
+}
+
+.cover-text {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     background-color: powderblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     font-size: 2.5rem;
     padding: 15px 25px;
 }
-.cover-image{
+
+.cover-image {
     width: 80%;
     max-width: 800px;
     height: auto;
     border: 10px solid white;
 }
-h2{
+
+h2 {
     background-color: powderblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
@@ -66,7 +66,7 @@ h2{
     text-align: center; 
 }
 
-body{
+body {
     margin-left: 220px; 
     background-color: powderblue;
     color: white;
@@ -74,4 +74,3 @@ body{
     font-size: 150%;
     padding: 25px;
 }
-
