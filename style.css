@@ -26,8 +26,7 @@
     font-weight: bold;
 }
 .cover-image {
-    float: right;
-    max-width: 800px;
+    max-width: 400px;
     width: 80%;       
     height: auto;       
     object-fit: cover;  
@@ -47,11 +46,13 @@
 header{
     font-size: 150%;
 }
-
+.cover{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
 
 h2 {
-    float: left; 
-    background-color: powderblue;
     font-size: 125%;
     padding: 25px;
     border: 10px solid white;
