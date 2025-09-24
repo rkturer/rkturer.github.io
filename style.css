@@ -31,8 +31,8 @@
     font-weight: bold;
 }
 .cover-image {
-    width: 400px;       
-    height: 400px;       
+    width: 600px;       
+    height: 600px;       
     object-fit: cover;  
     border: 5px solid white;
     display: block;
@@ -43,7 +43,7 @@ h1{
     background-color: powderblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    font-size: 300%;
+    font-size: 175%;
     padding: 25px;
     border: 10px solid white;
     text-align: center; 
@@ -54,7 +54,7 @@ h2 {
     background-color: powderblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    font-size: 175%;
+    font-size: 125%;
     padding: 25px;
     border: 10px solid white;
     text-align: center; 
