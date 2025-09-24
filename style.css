@@ -26,6 +26,7 @@
     font-weight: bold;
 }
 .cover-image {
+    float: right;
     max-width: 800px;
     width: 80%;       
     height: auto;       
@@ -50,6 +51,7 @@ header{
 
 
 h2 {
+    float: right; 
     background-color: powderblue;
     font-size: 125%;
     padding: 25px;
