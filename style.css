@@ -3,13 +3,9 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
     text-align: center;
     border: 10px solid white;
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%; /* makes nav stretch down the page */
+    display: flex; 
 }
 
 .NavBar li a {
@@ -17,7 +13,6 @@
     color: white;
     padding: 8px 16px;
     text-decoration: none;
-    border-bottom: 2px solid white;
 }
 
 .NavBar li a:hover {
@@ -44,8 +39,9 @@ header{
     background-color: powderblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    font-size: 300%;
+    font-size: 150%;
     text-align: center; 
+    padding: 10px;
 }
 
 
