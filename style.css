@@ -26,7 +26,7 @@
     font-weight: bold;
 }
 .cover-image {
-    max-width: 400px;
+    max-width: 600px;
     width: 80%;       
     height: auto;       
     object-fit: cover;  
@@ -51,11 +51,12 @@ header{
     align-items: center;
     gap: 20px;
 }
+.textSide{
+    flex: 1; 
+}
 
 h2 {
-    font-size: 125%;
-    padding: 25px;
-    border: 10px solid white;
+    font-size: 150%;
 }
 
 body { 
