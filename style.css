@@ -45,13 +45,14 @@
     text-align: center;
 }
 header{
+    float: left;
     background-color: powderblue;
     font-size: 150%;
 }
 
 
 h2 {
-    float: right; 
+    float: left; 
     background-color: powderblue;
     font-size: 125%;
     padding: 25px;
