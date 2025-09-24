@@ -34,6 +34,10 @@
     display: block;
     margin: 20px auto;   
 }
+.background_color1{
+    background-color: LightGray;
+}
+
 .Text{
     color: white; 
     font-family: Georgia, 'Times New Roman', Times, serif;
