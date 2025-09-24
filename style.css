@@ -1,4 +1,4 @@
-ul{
+.NavBar ul{
     background-color: powderblue;
     list-style-type: none;
     margin: 0;
@@ -9,7 +9,7 @@ ul{
     position: fixed;
 }
 
-li a {
+.NavBar li a {
     display: block;
     color: white;
     padding: 8px 16px;
@@ -17,7 +17,7 @@ li a {
     border-bottom: 2px solid white;
 }
 
-li b {
+.NavBarli b {
     display: block;
     color: white;
     padding: 8 px 16px;
