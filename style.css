@@ -33,8 +33,12 @@ li a:hover{
     background-color: white;
     color: powderblue;
 }
-    
-h1{
+.cover{
+    position: relative;
+    text-align: center;
+}
+
+.cover-text{
     background-color: powderblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
@@ -42,6 +46,10 @@ h1{
     padding: 25px;
     border: 10px solid white;
     text-align: center; 
+}
+.cover-image{
+    max-width: 100%;
+    height: auto;
 }
 h2{
     background-color: powderblue;
@@ -61,9 +69,4 @@ body{
     font-size: 150%;
     padding: 25px;
 }
-img{
-    max-width: 100%;
-    height: auto;
-    display: block;
-}
-}
+
