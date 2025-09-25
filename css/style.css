@@ -58,9 +58,11 @@ header{
     display: flex; 
     justify-content: center;
     gap: 25px;
+    margin: 0px;
+    padding: 0px; 
 }
 .SocialIcons li{
-    display: in-line:
+    display: in-line-block:
 }
 .SocialIcons li a{
     justify-content: center;
@@ -70,7 +72,7 @@ header{
 }
 .SocialIcons:hover{
     color: Gray;
-    background-color: White; 
+    background-color: Black; 
     transition: color 0.2s;
 }
 
