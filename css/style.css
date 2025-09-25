@@ -25,7 +25,7 @@
 }
 
 .NavBar li a:hover {
-    background-color: Black;
+    background-color: White;
     color: Gray;
     transition: color 0.2s, background-color 0.2s;
 }
@@ -63,11 +63,14 @@ header{
     display: in-line:
 }
 .SocialIcons li a{
+    justify-content: center;
     color: white;
+    background-color: Gray;
     transition: color 0.2s;
 }
 .SocialIcons:hover{
-    color: Black;
+    color: Gray;
+    background-color: White; 
     transition: color 0.2s;
 }
 
