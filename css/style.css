@@ -55,7 +55,14 @@ header{
 }
 .SocialIcons{
     list-style-type: none;
+    display: flex; 
+    justify-content: center;
+    gap: 25px;
+}
+
+.SocialIcons li a{
     color: white;
+    transition: color 0.2s;
 }
 .SocialIcons:hover{
     color: Gray;
