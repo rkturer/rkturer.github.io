@@ -62,17 +62,15 @@ header{
     padding: 0px; 
 }
 .SocialIcons li{
-    display: in-line-block:
+    display: inline-block:
 }
 .SocialIcons li a{
     justify-content: center;
     color: white;
-    background-color: Gray;
     transition: color 0.2s;
 }
-.SocialIcons:hover{
-    color: Gray;
-    background-color: Black; 
+.SocialIcons li a:hover{
+    color: Black;
     transition: color 0.2s;
 }
 
@@ -83,7 +81,7 @@ header{
 h2 {
     font-size: 150%;
 }
-h1, h2, p, {
+h1, h2, p {
     margin-top: 0px;
     padding: 0;
     
