@@ -18,16 +18,7 @@
         <h1 class="Text">Welcome To My Website!</h1>
     </header>
     
-<div class="NavBar Text">
-<ul>
-    <li><a href= "index.html">About Me</a></li>
-    <li><a href= "#">My Education</a></li>
-    <li><a href= "#">My Projects</a></li>
-    <li><a href= "#">Prior Work Experience</a></li>
-    <li><a href= "#">My Resume</a></li>
-    <li><a href= "#">My Activites, Interests, Honors</a></li>
-</ul>
-</div>
+<div id="nav-barplaceholder"></div>
     
 <div class="cover">
     <div class="textSide">
@@ -54,7 +45,16 @@
     </div>
     
 </div>
-            
+            <script>
+                fetch('/pages/navbar.html')
+                .then (response=> response.text())
+                .then(data=>{
+                    document.getElementById('nav-barplaceholder').innerHTML = data;
+                    )}
+                .catch(error=>console.error('Error loading nav bar:', error));
+            </script>
+                
+                
 
         
 </body>
