@@ -1,1 +1,9 @@
+.background_color1{
+    background-color: Gray;
+}
 
+.Text{
+    color: white; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
