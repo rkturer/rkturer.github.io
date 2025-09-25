@@ -58,7 +58,7 @@ header{
 .SocialIcons{
     color: white;
 }
-.SocialIcons : hover{
+.SocialIcons:hover{
     color: Gray;
     transition: color 0.2s;
 }
