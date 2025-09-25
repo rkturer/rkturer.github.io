@@ -1,1 +1,18 @@
+.SocialIcons{
+    list-style-type: none;
+    display: flex; 
+    justify-content: center;
+    gap: 25px;
+}
+.SocialIcons li{
+    display: in-line:
+}
+.SocialIcons li a{
+    color: white;
+    transition: color 0.2s;
+}
+.SocialIcons:hover{
+    color: Black;
+    transition: color 0.2s;
+}
 
