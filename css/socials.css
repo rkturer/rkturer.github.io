@@ -3,16 +3,18 @@
     display: flex; 
     justify-content: center;
     gap: 25px;
+    margin: 0px;
+    padding: 0px; 
 }
 .SocialIcons li{
-    display: in-line:
+    display: inline-block:
 }
 .SocialIcons li a{
+    justify-content: center;
     color: white;
     transition: color 0.2s;
 }
-.SocialIcons:hover{
+.SocialIcons li a:hover{
     color: Black;
     transition: color 0.2s;
 }
-
