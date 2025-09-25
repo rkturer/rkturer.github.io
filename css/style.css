@@ -1,5 +1,5 @@
 .background_color1{
-    background-color: LightGray;
+    background-color: Gray;
 }
 
 .Text{
@@ -10,7 +10,7 @@
 
 
 .NavBar ul {
-    background-color: LightGray;
+    background-color: Gray;
     list-style-type: none;
     border: 10px solid white;
     display: flex; 
@@ -26,13 +26,13 @@
 
 .NavBar li a:hover {
     background-color: white;
-    color: LightGray;
+    color: Gray;
     transition: color 0.2s, background-color 0.2s;
 }
 
 .active {
     background-color: white;
-    color: LightGray;
+    color: Gray;
     font-weight: bold;
 }
 .cover-image {
@@ -65,7 +65,7 @@ header{
     transition: color 0.2s;
 }
 .SocialIcons:hover{
-    color: Gray;
+    color: Black;
     transition: color 0.2s;
 }
 
@@ -78,7 +78,7 @@ h2 {
 }
 
 body { 
-    background-color: LightGray;
+    background-color: Gray;
     font-size: 150%;
     padding: 25px;
 }
