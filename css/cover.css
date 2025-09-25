@@ -13,3 +13,6 @@
     display: block;
     margin: 20px auto;   
 }
+.textSide{
+    flex: 1; 
+}
