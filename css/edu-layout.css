@@ -5,6 +5,8 @@
 }
 
 .edu-image {
+    border: 10px solid white;
+    padding: 10px;
     max-width: 250px;
     height: auto;
 
