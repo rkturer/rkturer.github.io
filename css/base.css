@@ -29,4 +29,5 @@ body {
 .border{
     border: 10px solid white;
     margin: 20px;
+    padding: 10px;
 }
