@@ -1,0 +1,14 @@
+.eduform{
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.edu-image {
+    max-width: 250px;
+    height: auto;
+
+}
+.edu-text{
+    flex: 1; 
+}
