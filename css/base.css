@@ -26,3 +26,6 @@ body {
 .left{
     text-align: left;
 }
+.border{
+    border: 10px solid white;
+}
