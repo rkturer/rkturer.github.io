@@ -1,5 +1,5 @@
 .NavBar ul {
-    background-color: Gray;
+    background-color: LightSteelBlue;
     list-style-type: none;
     border: 10px solid white;
     display: flex; 
@@ -15,12 +15,12 @@
 
 .NavBar li a:hover {
     background-color: White;
-    color: Gray;
+    color: LightSteelBlue;
     transition: color 0.2s, background-color 0.2s;
 }
 
 .active {
     background-color: white;
-    color: Gray;
+    color: LightSteelBlue;
     font-weight: bold;
 }
