@@ -1,10 +1,12 @@
-Welcome to my personal site. 
+This repository contains the source code for my personal website (https://rkturer.github.io). As I continue to pursue new projects this website will serve as a hub for all of my work. 
 
-I have built this by scratch using AI and online tutorials to aid me.
+Built with: 
+**HTML** - page structure (all HTML files are in the '/pages' folder)
+**CSS** - styling and formatting of HTML files (all CSS files are within the '/css' folder)
+**JavaScript** - dynamic navigation bar (all JavaScript files are in '/js' folder) 
+**GitHub Pages** - deployment and hosting
+ 
+Contact Me
+**email**: rkturer@gmail.com
+**linkedin**: linkedin.com/in/rkturer (https//:linkedin.com/in/rkturer)
 
-The pages folder contains all of the html documents. 
-The images folder contains all the images used in the website.
-The css folder contains all of the css files used to format the htlm documents. 
-The js folder contains a javascript file that dynamically loads the navbar into each html page
-
-The index.html file is at the root along with this the pdf file of my resume and readme.md file. 
