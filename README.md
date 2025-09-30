@@ -1,4 +1,4 @@
-![Website Preview](/pages/preview.png) 
+![Website Preview](/images/preview.png) 
 
 This repository contains the source code for my personal website (https://rkturer.github.io). As I continue to pursue new projects this website will serve as a hub for all of my work. 
 
