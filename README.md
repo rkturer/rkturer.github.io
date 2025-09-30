@@ -1,6 +1,6 @@
-[![Website Preview](/images/preview.png)](target="_blank" https://rkturer.github.io)
+[![Website Preview](/images/preview.png)](https://rkturer.github.io)
 
-This repository contains the source code for my personal website (target="_blank" https://rkturer.github.io). As I continue to pursue new projects this website will serve as a hub for all of my work. 
+This repository contains the source code for my personal website (https://rkturer.github.io). As I continue to pursue new projects this website will serve as a hub for all of my work. 
 
 Built with: 
 
@@ -16,5 +16,5 @@ Contact Me:
 
 -**email**: rkturer@gmail.com
 
--**linkedin**: linkedin.com/in/rkturer (target="_blank" https://linkedin.com/in/rkturer)
+-**linkedin**: linkedin.com/in/rkturer (https://linkedin.com/in/rkturer)
 
