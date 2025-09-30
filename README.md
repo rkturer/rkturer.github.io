@@ -12,7 +12,8 @@ Built with:
 
 -**GitHub Pages** - deployment and hosting
  
-Contact Me
+Contact Me:
+
 -**email**: rkturer@gmail.com
 
 -**linkedin**: linkedin.com/in/rkturer (https://linkedin.com/in/rkturer)
