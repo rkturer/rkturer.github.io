@@ -1,12 +1,13 @@
 .project_form{
     display: flex;
     justify-content: flex-start;
+    align-items: center; 
     gap: 20px;
 }
 
 .project_image{
     border: 2px solid white;
-    max-width: 800px;
+    max-width: 50%;
     height: auto;
 
 }
